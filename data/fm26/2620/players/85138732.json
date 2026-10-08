@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "fm_uid": 85138732,
+  "fm_unique_id": 85139014,
+  "player_name": "Kylian Mbappé",
+  "status": "verified",
+  "verification": {
+    "source": "FM26 pre-game editor, historial como empleado; contraste de cesión con historial como jugador",
+    "method": "capturas facilitadas por el usuario",
+    "database_version": "2620",
+    "note": "Se conservan las fechas de etapas solapadas tal como las muestra el editor."
+  },
+  "career_history": [
+    {
+      "club_name": "AS Mónaco",
+      "start_date": "2013-07-03",
+      "end_date": "2018-07-01",
+      "loan": false
+    },
+    {
+      "club_name": "Paris Saint-Germain",
+      "start_date": "2017-08-31",
+      "end_date": "2018-06-30",
+      "loan": true
+    },
+    {
+      "club_name": "Paris Saint-Germain",
+      "start_date": "2018-07-01",
+      "end_date": "2024-06-30",
+      "loan": false
+    },
+    {
+      "club_name": "Real Madrid CF",
+      "start_date": "2024-07-01",
+      "end_date": null,
+      "loan": false
+    }
+  ]
+}
