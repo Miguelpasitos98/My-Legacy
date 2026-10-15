@@ -1,0 +1,553 @@
+{
+  "version": 1,
+  "name": "England_-_Premier_League",
+  "source_zip": "C:\\Users\\Miguel\\Downloads\\England_-_Premier_League.zip",
+  "created": "2026-10-14T18:56:43.092307",
+  "refs": {
+    "original": "referencias\\Arsenal_original.png",
+    "style": "referencias\\Arsenal_style.png"
+  },
+  "items": [
+    {
+      "id": "0",
+      "club": "Por revisar — Brighton1_Alt",
+      "filename": "brighton1_alt.png",
+      "original": "originales\\Por revisar — Brighton1_Alt\\brighton1_alt.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "1",
+      "club": "Arsenal FC",
+      "filename": "arsenal1.png",
+      "original": "originales\\Arsenal FC\\arsenal1.png",
+      "result": "resultados\\Arsenal FC\\arsenal1.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "2",
+      "club": "Arsenal FC",
+      "filename": "arsenal2.png",
+      "original": "originales\\Arsenal FC\\arsenal2.png",
+      "result": "resultados\\Arsenal FC\\arsenal2.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "3",
+      "club": "Arsenal FC",
+      "filename": "arsenal3.png",
+      "original": "originales\\Arsenal FC\\arsenal3.png",
+      "result": "resultados\\Arsenal FC\\arsenal3.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "4",
+      "club": "Aston Villa FC",
+      "filename": "aston_villa1.png",
+      "original": "originales\\Aston Villa FC\\aston_villa1.png",
+      "result": "resultados\\Aston Villa FC\\aston_villa1.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "5",
+      "club": "Aston Villa FC",
+      "filename": "aston_villa2.png",
+      "original": "originales\\Aston Villa FC\\aston_villa2.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "6",
+      "club": "Aston Villa FC",
+      "filename": "aston_villa3.png",
+      "original": "originales\\Aston Villa FC\\aston_villa3.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "7",
+      "club": "AFC Bournemouth",
+      "filename": "bournemouth1.png",
+      "original": "originales\\AFC Bournemouth\\bournemouth1.png",
+      "result": "resultados\\AFC Bournemouth\\bournemouth1.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "8",
+      "club": "AFC Bournemouth",
+      "filename": "bournemouth2.png",
+      "original": "originales\\AFC Bournemouth\\bournemouth2.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "9",
+      "club": "AFC Bournemouth",
+      "filename": "bournemouth3.png",
+      "original": "originales\\AFC Bournemouth\\bournemouth3.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "10",
+      "club": "Brentford FC",
+      "filename": "brentford1.png",
+      "original": "originales\\Brentford FC\\brentford1.png",
+      "result": "resultados\\Brentford FC\\brentford1.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "11",
+      "club": "Brentford FC",
+      "filename": "brentford2.png",
+      "original": "originales\\Brentford FC\\brentford2.png",
+      "result": "resultados\\Brentford FC\\brentford2.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "12",
+      "club": "Brentford FC",
+      "filename": "brentford3.png",
+      "original": "originales\\Brentford FC\\brentford3.png",
+      "result": "resultados\\Brentford FC\\brentford3.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "13",
+      "club": "Brighton & Hove Albion",
+      "filename": "brighton1.png",
+      "original": "originales\\Brighton & Hove Albion\\brighton1.png",
+      "result": "resultados\\Brighton & Hove Albion\\brighton1.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "14",
+      "club": "Brighton & Hove Albion",
+      "filename": "brighton2.png",
+      "original": "originales\\Brighton & Hove Albion\\brighton2.png",
+      "result": "resultados\\Brighton & Hove Albion\\brighton2.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "15",
+      "club": "Brighton & Hove Albion",
+      "filename": "brighton3.png",
+      "original": "originales\\Brighton & Hove Albion\\brighton3.png",
+      "result": "resultados\\Brighton & Hove Albion\\brighton3.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "16",
+      "club": "Chelsea FC",
+      "filename": "chelsea1.png",
+      "original": "originales\\Chelsea FC\\chelsea1.png",
+      "result": "resultados\\Chelsea FC\\chelsea1.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "17",
+      "club": "Chelsea FC",
+      "filename": "chelsea2.png",
+      "original": "originales\\Chelsea FC\\chelsea2.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "18",
+      "club": "Chelsea FC",
+      "filename": "chelsea3.png",
+      "original": "originales\\Chelsea FC\\chelsea3.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "19",
+      "club": "Coventry City FC",
+      "filename": "coventry1.png",
+      "original": "originales\\Coventry City FC\\coventry1.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "20",
+      "club": "Coventry City FC",
+      "filename": "coventry2.png",
+      "original": "originales\\Coventry City FC\\coventry2.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "21",
+      "club": "Coventry City FC",
+      "filename": "coventry3.png",
+      "original": "originales\\Coventry City FC\\coventry3.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "22",
+      "club": "Crystal Palace FC",
+      "filename": "crystal_palace1.png",
+      "original": "originales\\Crystal Palace FC\\crystal_palace1.png",
+      "result": "resultados\\Crystal Palace FC\\crystal_palace1.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "23",
+      "club": "Crystal Palace FC",
+      "filename": "crystal_palace2.png",
+      "original": "originales\\Crystal Palace FC\\crystal_palace2.png",
+      "result": "resultados\\Crystal Palace FC\\crystal_palace2.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "24",
+      "club": "Crystal Palace FC",
+      "filename": "crystal_palace3.png",
+      "original": "originales\\Crystal Palace FC\\crystal_palace3.png",
+      "result": "resultados\\Crystal Palace FC\\crystal_palace3.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "25",
+      "club": "Everton FC",
+      "filename": "everton1.png",
+      "original": "originales\\Everton FC\\everton1.png",
+      "result": "resultados\\Everton FC\\everton1.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "26",
+      "club": "Everton FC",
+      "filename": "everton2.png",
+      "original": "originales\\Everton FC\\everton2.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "27",
+      "club": "Everton FC",
+      "filename": "everton3.png",
+      "original": "originales\\Everton FC\\everton3.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "28",
+      "club": "Fulham FC",
+      "filename": "fulham1.png",
+      "original": "originales\\Fulham FC\\fulham1.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "29",
+      "club": "Fulham FC",
+      "filename": "fulham2.png",
+      "original": "originales\\Fulham FC\\fulham2.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "30",
+      "club": "Fulham FC",
+      "filename": "fulham3.png",
+      "original": "originales\\Fulham FC\\fulham3.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "31",
+      "club": "Hull City AFC",
+      "filename": "hull_city1.png",
+      "original": "originales\\Hull City AFC\\hull_city1.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "32",
+      "club": "Hull City AFC",
+      "filename": "hull_city2.png",
+      "original": "originales\\Hull City AFC\\hull_city2.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "33",
+      "club": "Hull City AFC",
+      "filename": "hull_city3.png",
+      "original": "originales\\Hull City AFC\\hull_city3.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "34",
+      "club": "Ipswich Town FC",
+      "filename": "ipswich1.png",
+      "original": "originales\\Ipswich Town FC\\ipswich1.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "35",
+      "club": "Ipswich Town FC",
+      "filename": "ipswich2.png",
+      "original": "originales\\Ipswich Town FC\\ipswich2.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "36",
+      "club": "Leeds United FC",
+      "filename": "leeds_united1.png",
+      "original": "originales\\Leeds United FC\\leeds_united1.png",
+      "result": "resultados\\Leeds United FC\\leeds_united1.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "37",
+      "club": "Leeds United FC",
+      "filename": "leeds_united2.png",
+      "original": "originales\\Leeds United FC\\leeds_united2.png",
+      "result": "resultados\\Leeds United FC\\leeds_united2.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "38",
+      "club": "Leeds United FC",
+      "filename": "leeds_united3.png",
+      "original": "originales\\Leeds United FC\\leeds_united3.png",
+      "result": "resultados\\Leeds United FC\\leeds_united3.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "39",
+      "club": "Liverpool FC",
+      "filename": "liverpool1.png",
+      "original": "originales\\Liverpool FC\\liverpool1.png",
+      "result": "resultados\\Liverpool FC\\liverpool1.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "40",
+      "club": "Liverpool FC",
+      "filename": "liverpool2.png",
+      "original": "originales\\Liverpool FC\\liverpool2.png",
+      "result": "resultados\\Liverpool FC\\liverpool2.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "41",
+      "club": "Liverpool FC",
+      "filename": "liverpool3.png",
+      "original": "originales\\Liverpool FC\\liverpool3.png",
+      "result": "resultados\\Liverpool FC\\liverpool3.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "42",
+      "club": "Manchester City FC",
+      "filename": "manchester_city1.png",
+      "original": "originales\\Manchester City FC\\manchester_city1.png",
+      "result": "resultados\\Manchester City FC\\manchester_city1.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "43",
+      "club": "Manchester City FC",
+      "filename": "manchester_city2.png",
+      "original": "originales\\Manchester City FC\\manchester_city2.png",
+      "result": "resultados\\Manchester City FC\\manchester_city2.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "44",
+      "club": "Manchester City FC",
+      "filename": "manchester_city3.png",
+      "original": "originales\\Manchester City FC\\manchester_city3.png",
+      "result": "resultados\\Manchester City FC\\manchester_city3.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "45",
+      "club": "Por revisar — Manunited",
+      "filename": "manunited1.png",
+      "original": "originales\\Por revisar — Manunited\\manunited1.png",
+      "result": "resultados\\Por revisar — Manunited\\manunited1.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "46",
+      "club": "Por revisar — Manunited",
+      "filename": "manunited2.png",
+      "original": "originales\\Por revisar — Manunited\\manunited2.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "47",
+      "club": "Por revisar — Manunited",
+      "filename": "manunited3.png",
+      "original": "originales\\Por revisar — Manunited\\manunited3.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "48",
+      "club": "Por revisar — Newcastle_Utd",
+      "filename": "newcastle_utd1.png",
+      "original": "originales\\Por revisar — Newcastle_Utd\\newcastle_utd1.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "49",
+      "club": "Por revisar — Newcastle_Utd",
+      "filename": "newcastle_utd2.png",
+      "original": "originales\\Por revisar — Newcastle_Utd\\newcastle_utd2.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "50",
+      "club": "Por revisar — Newcastle_Utd",
+      "filename": "newcastle_utd3.png",
+      "original": "originales\\Por revisar — Newcastle_Utd\\newcastle_utd3.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "51",
+      "club": "Nottingham Forest FC",
+      "filename": "nottingham_forest1.png",
+      "original": "originales\\Nottingham Forest FC\\nottingham_forest1.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "52",
+      "club": "Nottingham Forest FC",
+      "filename": "nottingham_forest2.png",
+      "original": "originales\\Nottingham Forest FC\\nottingham_forest2.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "53",
+      "club": "Nottingham Forest FC",
+      "filename": "nottingham_forest3.png",
+      "original": "originales\\Nottingham Forest FC\\nottingham_forest3.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "54",
+      "club": "Sunderland AFC",
+      "filename": "sunderland1.png",
+      "original": "originales\\Sunderland AFC\\sunderland1.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "55",
+      "club": "Sunderland AFC",
+      "filename": "sunderland2.png",
+      "original": "originales\\Sunderland AFC\\sunderland2.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "56",
+      "club": "Sunderland AFC",
+      "filename": "sunderland3.png",
+      "original": "originales\\Sunderland AFC\\sunderland3.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "57",
+      "club": "Tottenham Hotspur FC",
+      "filename": "tottenham1.png",
+      "original": "originales\\Tottenham Hotspur FC\\tottenham1.png",
+      "result": "resultados\\Tottenham Hotspur FC\\tottenham1.png",
+      "status": "Aprobada",
+      "warnings": []
+    },
+    {
+      "id": "58",
+      "club": "Tottenham Hotspur FC",
+      "filename": "tottenham2.png",
+      "original": "originales\\Tottenham Hotspur FC\\tottenham2.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    },
+    {
+      "id": "59",
+      "club": "Tottenham Hotspur FC",
+      "filename": "tottenham3.png",
+      "original": "originales\\Tottenham Hotspur FC\\tottenham3.png",
+      "result": null,
+      "status": "Pendiente",
+      "warnings": []
+    }
+  ],
+  "problems": []
+}

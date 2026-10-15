@@ -1,0 +1,19 @@
+﻿MF LEGACY — TRANSFORMACIÓN INDIVIDUAL DE CAMISETA 3D
+
+CAMISETA A TRANSFORMAR: bournemouth1.png
+CLUB: AFC Bournemouth
+
+REFERENCIAS ADJUNTAS:
+1. ORIGINAL: bournemouth1.png — ÚNICA fuente del diseño, colores, escudo, fabricante y patrocinador.
+2. Arsenal Original — solo para comprender la transformación antes/después.
+3. Arsenal 3D — EXCLUSIVAMENTE referencia de estilo, iluminación, tela, pose y movimiento.
+
+INSTRUCCIÓN CRÍTICA: genera LA CAMISETA ORIGINAL bournemouth1.png, NO generes la camiseta del Arsenal. No reutilices ninguna camiseta previa ni otra equipación del mismo club.
+
+Transforma la original en un render promocional de fútbol 3D fotorealista. Una sola camiseta aislada y flotando, sin cuerpo ni maniquí. Perspectiva frontal 3/4 suave, movimiento dinámico, bajo claramente ondulado y algo elevado, pliegues amplios y realistas sobre todo en laterales y mitad inferior, mangas orgánicas. Mantén el pecho despejado. Tejido técnico realista e iluminación suave de estudio. Fondo PNG con alfa verdaderamente transparente; sin suelo, texto extra ni decoraciones.
+
+CONSERVA exactamente, hasta donde permita la edición: colores, formas, bandas, patrones, escudo, fabricante, patrocinadores, textos, cuello, mangas, puños, ribetes, costuras y paneles. Si no puedes reproducir algo, no inventes una alternativa. No copies ningún diseño del Arsenal.
+
+COHERENCIA: todas las camisetas del proyecto comparten acabado, escala, iluminación y dinamismo, pero cada una presenta ligeras variaciones de giro, mangas y ondulación del bajo. No repetir la misma pose ni exagerar la deformación.
+
+SALIDA: UNA imagen individual de bournemouth1.png, no collage. Sin explicación adicional. La exactitud de logos y sponsors requiere revisión humana.
