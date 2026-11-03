@@ -1,0 +1,31 @@
+{
+  "format": "mf_legacy_trophy_visual_variants_v1",
+  "competition": {
+    "name": "Mundial de Clubes FIFA",
+    "football_manager_source_id": "121092",
+    "organizer": "FIFA"
+  },
+  "design_variants": [
+    {
+      "id": "fifa-club-world-cup-classic-2005-2023",
+      "label": "Trofeo clásico del Mundial de Clubes FIFA",
+      "from_year": 2005,
+      "to_year": 2023,
+      "image_path": "Trofeos identificados/Variantes historicas/FIFA/Mundial de Clubes FIFA 2005-2023.png",
+      "source_url": "https://commons.wikimedia.org/wiki/File:FIFA_Club_World_Cup_Football_Trophy_HD_PNG-Photoroom.png",
+      "credit": "ImLaurenz",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "changes": "Ninguna; imagen original sin modificar"
+    },
+    {
+      "id": "fifa-club-world-cup-modern-2025",
+      "label": "Trofeo actual del Mundial de Clubes FIFA",
+      "from_year": 2025,
+      "to_year": null,
+      "image_path": "Trofeos identificados/Pendientes de identificar/121092.png",
+      "credit": "Archivo original del catálogo MF LEGACY"
+    }
+  ],
+  "notes": "Son dos diseños físicos del mismo título histórico; ninguno crea una segunda competición ni duplica adjudicaciones. El Mundial de 2000 tenía otro diseño no incorporado aquí. No hubo Mundial de Clubes FIFA en 2024."
+}
