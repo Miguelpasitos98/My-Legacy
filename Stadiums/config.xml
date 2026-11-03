@@ -1,0 +1,431 @@
+<record>
+	<!-- resource manager options -->
+
+	<!-- dont preload anything in this folder -->
+	<boolean id="preload" value="false"/>
+
+	<!-- logo mappings -->
+	<!-- the following XML maps pictures inside this folder into other positions
+		 in the resource system, which allows this folder to be dropped into any
+		 place in the graphics folder and still have the game pick up the graphics
+		 files from the correct places
+	-->
+	
+	<list id="maps">
+
+CREATED COMPETITIONS BELOW - YOU CAN RENAME THE ID LINE OF THESE ONES IF YOU NEED TO,
+SHOULD YOU HAVE ANY DATABASES RUNNING IN CONJUNCTION WHICH THROW THIS CONFIG OUT OF SYNC,
+Ceskoslovensky 1. Fotbalova Liga IS THE BASE LINE, USE FMRTE TO LOCATE IT AND AMEND ALL LINE IDS WHERE NECESSARY#
+FOR EXAMPLE, IF YOUR FMRTE SHOWS THE BASE ID 2000142116 INSTEAD OF 2000142115 - THEN AMEND ALL LINES BY +1
+
+		<record from="Ceskoslovensky 1. Fotbalova Liga" to="graphics/pictures/comp/2000334998/trophy"/>
+		<record from="Ceskoslovensky Pohar" to="graphics/pictures/comp/2000334999/trophy"/>
+		<record from="South African FPL" to="graphics/pictures/comp/2000335000/trophy"/>
+		<record from="Slovak Liga" to="graphics/pictures/comp/2000335001/trophy"/>
+		<record from="Süddeutsche Meisterschaft (1898-1933)" to="graphics/pictures/comp/2000335002/trophy"/>
+		<record from="Kreisliga Bayern (1910-1923)" to="graphics/pictures/comp/2000335003/trophy"/>
+		<record from="Bezirksliga Bayern (1924-1927)" to="graphics/pictures/comp/2000335004/trophy"/>		
+		<record from="Bezirksliga Nordbayern (1928-1933)" to="graphics/pictures/comp/2000335005/trophy"/>
+		<record from="Bezirksliga Südbayern (1928-1933)" to="graphics/pictures/comp/2000335006/trophy"/>
+		<record from="Bezirksliga Südbayern (1928-1933)" to="graphics/pictures/comp/2000335007/trophy"/>
+		<record from="Oberliga Süd (1946-1963)" to="graphics/pictures/comp/2000335008/trophy"/>
+		<record from="South African SASL" to="graphics/pictures/comp/2000335009/trophy"/>
+		<record from="Brandenburgische Meisterschaft (1898-1933)" to="graphics/pictures/comp/2000335010/trophy"/>
+		<record from="Mitteldeutsche Meisterschaft (1902-1933)" to="graphics/pictures/comp/2000335011/trophy"/>
+		<record from="Westdeutsche Meisterschaft (1903-1933)" to="graphics/pictures/comp/2000335012/trophy"/>
+		<record from="Oberliga West (1948-1963)" to="graphics/pictures/comp/2000335013/trophy"/>
+		<record from="Märkischer Fußball-Bund (1903-1911)" to="graphics/pictures/comp/2000335014/trophy"/>
+		<record from="Norddeutsche Fußballmeisterschaft (1906-1933)" to="graphics/pictures/comp/2000335015/trophy"/>
+		<record from="Oberliga Nord (1948-1963)" to="graphics/pictures/comp/2000335016/trophy"/>
+		<record from="Gauliga SüdwestMainhessen (1934-1941)" to="graphics/pictures/comp/2000335017/trophy"/>
+		<record from="Gauliga Hessen-Nassau (1942-1944)" to="graphics/pictures/comp/2000335018/trophy"/>
+		<record from="Gauliga Westmark (1942-1944)" to="graphics/pictures/comp/2000335019/trophy"/>
+		<record from="Gauliga Mittelrhein (1934-1941)" to="graphics/pictures/comp/2000335020/trophy"/>
+		<record from="Gauliga Köln-Aachen (1942-1944)" to="graphics/pictures/comp/2000335021/trophy"/>
+		<record from="Gauliga Moselland (1942-1944)" to="graphics/pictures/comp/2000335022/trophy"/>
+		<record from="Gauliga Baden (1934-1944)" to="graphics/pictures/comp/2000335023/trophy"/>
+		<record from="Oberliga Berlin (1945-1963)" to="graphics/pictures/comp/2000335024/trophy"/>
+		<record from="Oberliga Südwest (1946-1963)" to="graphics/pictures/comp/2000335025/trophy"/>
+		<record from="2. Oberliga Süd (1951-1963)" to="graphics/pictures/comp/2000335026/trophy"/>
+		<record from="2. Oberliga Südwest (1952-1963)" to="graphics/pictures/comp/2000335027/trophy"/>
+		<record from="2. Oberliga West (1950-1963)" to="graphics/pictures/comp/2000335028/trophy"/>
+		<record from="Gauliga Berlin-Brandenburg (1934-1944)" to="graphics/pictures/comp/2000335029/trophy"/>
+		<record from="Gauliga Hessen (1934-1944)" to="graphics/pictures/comp/2000335030/trophy"/>
+		<record from="Gauliga Mitte (1934-1944)" to="graphics/pictures/comp/2000335031/trophy"/>
+		<record from="Gauliga Niederrhein (1934-1944)" to="graphics/pictures/comp/2000335032/trophy"/>
+		<record from="Gauliga Niedersachsen (1934-1944)" to="graphics/pictures/comp/2000335033/trophy"/>
+		<record from="Gauliga Nordmark (1934-1945)" to="graphics/pictures/comp/2000335034/trophy"/>
+		<record from="Gauliga Sachsen (1934-1944)" to="graphics/pictures/comp/2000335035/trophy"/>
+		<record from="Gauliga Westfalen (1934-1944)" to="graphics/pictures/comp/2000335036/trophy"/>
+		<record from="Gauliga Württemberg (1934-1944)" to="graphics/pictures/comp/2000335037/trophy"/>
+		<record from="Kreisliga Hessen (1920-1923)" to="graphics/pictures/comp/2000335038/trophy"/>
+		<record from="Kreisliga Nordmain (1920-1923)" to="graphics/pictures/comp/2000335039/trophy"/>
+		<record from="Kreisliga Odenwald (1920-1923)" to="graphics/pictures/comp/2000335040/trophy"/>
+		<record from="Kreisliga Pfalz (1920-1923)" to="graphics/pictures/comp/2000335041/trophy"/>
+		<record from="Kreisliga Saar (1920-1923)" to="graphics/pictures/comp/2000335042/trophy"/>
+		<record from="Kreisliga Südmain (1920-1923)" to="graphics/pictures/comp/2000335043/trophy"/>
+		<record from="Kreisliga Südwest (1920-1923)" to="graphics/pictures/comp/2000335044/trophy"/>
+		<record from="Kreisliga Württemberg (1920-1923)" to="graphics/pictures/comp/2000335045/trophy"/>
+		<record from="Nordkreis-Liga (1910-1918)" to="graphics/pictures/comp/2000335046/trophy"/>
+		<record from="Südkreis-Liga (1909-1918)" to="graphics/pictures/comp/2000335047/trophy"/>
+		<record from="Westkreis-Liga (1909-1918)" to="graphics/pictures/comp/2000335048/trophy"/>
+		<record from="Campionat de Catalunya" to="graphics/pictures/comp/2000335049/trophy"/>
+		<record from="Copa Barcelona (1903)" to="graphics/pictures/comp/2000335050/trophy"/>
+		<record from="Copa Macaya" to="graphics/pictures/comp/2000335051/trophy"/>
+		<record from="Campeonato Regional Centro" to="graphics/pictures/comp/2000335052/trophy"/>
+		<record from="Campeonato Regional de Asturias (1919-1940)" to="graphics/pictures/comp/2000335053/trophy"/>
+		<record from="Bizkaiko Eskualdeko Txapelketa (1914-1940)" to="graphics/pictures/comp/2000335054/trophy"/>
+		<record from="Gipuzkoako Herrialde Txapelketa (1919-1940)" to="graphics/pictures/comp/2000335055/trophy"/>
+		<record from="Lliga Mediterrània" to="graphics/pictures/comp/2000335056/trophy"/>
+		<record from="Lliga Catalana" to="graphics/pictures/comp/2000335057/trophy"/>
+		<record from="Copa Eva Duarte" to="graphics/pictures/comp/2000335058/trophy"/>
+		<record from="Copa de la España Libre" to="graphics/pictures/comp/2000335059/trophy"/>
+		<record from="Copa de los Campeones de España" to="graphics/pictures/comp/2000335060/trophy"/>
+		<record from="Copa de Oro Argentina (1945)" to="graphics/pictures/comp/2000335061/trophy"/>
+		<record from="Copa Presidente FEF" to="graphics/pictures/comp/2000335062/trophy"/>
+		<record from="Campeonato Regional de Valencia (1920-1940)" to="graphics/pictures/comp/2000335063/trophy"/>
+		<record from="Campeonato Regional Sur (1910-1940)" to="graphics/pictures/comp/2000335064/trophy"/>
+		<record from="Campeonato Regional de Levante (1920-1940)" to="graphics/pictures/comp/2000335065/trophy"/>
+		<record from="Campeonato Regional Leonés (1924-1931)" to="graphics/pictures/comp/2000335066/trophy"/>
+		<record from="Campeonato Regional de Galicia (1905-1940)" to="graphics/pictures/comp/2000335067/trophy"/>
+		<record from="Campeonato Regional de Canarias (1912-1977)" to="graphics/pictures/comp/2000335068/trophy"/>
+		<record from="Campeonato Regional de Aragón (1923-1940)" to="graphics/pictures/comp/2000335069/trophy"/>
+		<record from="Campeonato Regional de Baleares (1924-1940)" to="graphics/pictures/comp/2000335070/trophy"/>
+		<record from="Campeonato Regional del Norte (1914-1922)" to="graphics/pictures/comp/2000335071/trophy"/>
+		<record from="Campeonato Regional Oeste (1921-1935)" to="graphics/pictures/comp/2000335072/trophy"/>
+		<record from="Campeonato Regional de Navarra (1929-1939)" to="graphics/pictures/comp/2000335073/trophy"/>
+2000335074
+2000335075
+		<record from="Latin Cup" to="graphics/pictures/comp/2000335076/trophy"/>
+		<record from="Torneo Internazionale Stampa Sportiva" to="graphics/pictures/comp/2000335077/trophy"/>
+		<record from="Sir Thomas Lipton Trophy" to="graphics/pictures/comp/2000335078/trophy"/>
+		<record from="Lipton Challenge Cup" to="graphics/pictures/comp/2000335079/trophy"/>
+		<record from="Copa Lipton" to="graphics/pictures/comp/2000335080/trophy"/>
+		<record from="Copa Newton" to="graphics/pictures/comp/2000335081/trophy"/>
+		<record from="Copa Premier Honor Argentino (1908-1920)" to="graphics/pictures/comp/2000335082/trophy"/>
+		<record from="Copa Premier Honor Uruguayo (1911-1924)" to="graphics/pictures/comp/2000335083/trophy"/>
+2000335084
+		<record from="Panamerican Championship (1952-1960)" to="graphics/pictures/comp/2000335085/trophy"/>
+		<record from="Taça das Nações (1964)" to="graphics/pictures/comp/2000335086/trophy"/>
+		<record from="Texaco Cup" to="graphics/pictures/comp/2000335087/trophy"/>
+		<record from="Pyrenees Cup" to="graphics/pictures/comp/2000335088/trophy"/>
+2000335089
+2000335090
+		<record from="Pequeña Copa del Mundo" to="graphics/pictures/comp/2000335091/trophy"/>
+		<record from="Copa Rio Internacional" to="graphics/pictures/comp/2000335092/trophy"/>
+		<record from="Copa de Confraternidad Rioplatense Escobar-Gerona" to="graphics/pictures/comp/2000335093/trophy"/>
+		<record from="Copa do Atlântico de Clubes Sul-Americanos" to="graphics/pictures/comp/2000335094/trophy"/>
+		<record from="Copa Iberoamericana" to="graphics/pictures/comp/2000335095/trophy"/>
+		<record from="Copa Ricardo Aldao" to="graphics/pictures/comp/2000335096/trophy"/>
+		<record from="Copa de Honor Cousenier" to="graphics/pictures/comp/2000335097/trophy"/>
+		<record from="Copa de Competencia Chevallier Boutell" to="graphics/pictures/comp/2000335098/trophy"/>
+		<record from="Copa Master de CONMEBOL" to="graphics/pictures/comp/2000335099/trophy"/>
+		<record from="Supercopaintercontinentaltrofeo" to="graphics/pictures/comp/2000335100/trophy"/>
+		<record from="Copa Simón Bolívar (1960-1976)" to="graphics/pictures/comp/2000335101/trophy"/>
+2000335102
+2000335103
+2000335104
+2000335105
+2000335106
+2000335107
+		<record from="JSL Cup" to="graphics/pictures/comp/2000335108/trophy"/>
+		<record from="JSL Super Cup" to="graphics/pictures/comp/2000335109/trophy"/>
+		<record from="JiaA League" to="graphics/pictures/comp/2000335110/trophy"/>
+2000335111
+		<record from="Macedonia EPSM Championship (1924-1959)" to="graphics/pictures/comp/2000335112/trophy"/>
+2000335113
+2000335114
+		<record from="Sultan Hussein Cup (1921-1938)" to="graphics/pictures/comp/2000335115/trophy"/>
+		<record from="Cairo League (1923-1958)" to="graphics/pictures/comp/2000335116/trophy"/>
+		<record from="Alexandria League (1927-1953)" to="graphics/pictures/comp/2000335117/trophy"/>
+		<record from="Canal League (1927-1948)" to="graphics/pictures/comp/2000335118/trophy"/>
+		<record from="Division d'Honneur LMFA (1918-1956)" to="graphics/pictures/comp/2000335119/trophy"/>
+		<record from="North African Cup" to="graphics/pictures/comp/2000335120/trophy"/>
+		<record from="North African Championship" to="graphics/pictures/comp/2000335121/trophy"/>
+		<record from="Coupe des Nations (1930)" to="graphics/pictures/comp/2000335122/trophy"/>
+		<record from="Pohar Dobrocinnosti" to="graphics/pictures/comp/2000335123/trophy"/>
+		<record from="Stredocesky Pohar" to="graphics/pictures/comp/2000335124/trophy"/>
+2000335125
+2000335126
+2000335127
+2000335128
+2000335129
+		<record from="European Railways Cup" to="graphics/pictures/comp/2000335130/trophy"/>
+2000335131
+2000335132
+2000335133
+2000335134
+2000335135
+2000335136
+2000335137
+2000335138
+2000335139
+2000335140
+2000335141
+		<record from="Copa de Honor Municipalidad de Buenos Aires" to="graphics/pictures/comp/2000335142/trophy"/>
+		<record from="Copa de Honor (Uruguay)" to="graphics/pictures/comp/2000335143/trophy"/>
+		<record from="Copa de Competencia (Uruguay)" to="graphics/pictures/comp/2000335144/trophy"/>
+		<record from="Copa de Competencia Jockey Club" to="graphics/pictures/comp/2000335145/trophy"/>
+		<record from="Mohammed V Trophy" to="graphics/pictures/comp/2000335146/trophy"/>
+		<record from="Copa de Competencia Británica George VI" to="graphics/pictures/comp/2000335147/trophy"/>
+		<record from="Copa Dr. Carlos Ibarguren" to="graphics/pictures/comp/2000335148/trophy"/>
+		<record from="Copa Estimulo" to="graphics/pictures/comp/2000335149/trophy"/>
+		<record from="Copa Adrián C. Escobar" to="graphics/pictures/comp/2000335150/trophy"/>
+2000335151
+2000335152
+2000335153
+		<record from="Azərbaycan Yüksək Liqası" to="graphics/pictures/comp/2000335154/trophy"/>
+2000335155
+2000335156
+		<record from="Tournoi de Paris" to="graphics/pictures/comp/2000335157/trophy"/>
+		<record from="Russian Railways Cup" to="graphics/pictures/comp/2000335158/trophy"/>
+		<record from="Amsterdam Tournament" to="graphics/pictures/comp/2000335159/trophy"/>
+		<record from="Centenary of Rangers" to="graphics/pictures/comp/2000335160/trophy"/>
+		<record from="Eusebio Cup" to="graphics/pictures/comp/2000335161/trophy"/>
+		<record from="Algarve Cup" to="graphics/pictures/comp/2000335162/trophy"/>
+		<record from="Trofeo Santiago Bernabeu" to="graphics/pictures/comp/2000335163/trophy"/>
+		<record from="Peace Cup" to="graphics/pictures/comp/2000335164/trophy"/>
+		<record from="Coppa delle Alpi" to="graphics/pictures/comp/2000335165/trophy"/>
+		<record from="Fairs Cup" to="graphics/pictures/comp/2000335166/trophy"/>
+		<record from="Sheriff of London Charity Shield" to="graphics/pictures/comp/2000335167/trophy"/>
+		<record from="Audi Cup" to="graphics/pictures/comp/2000335168/trophy"/>
+		<record from="Joan Gamper Trophy" to="graphics/pictures/comp/2000335169/trophy"/>
+		<record from="Emirates Cup" to="graphics/pictures/comp/2000335170/trophy"/>
+		<record from="Franz Beckenbauer Cup" to="graphics/pictures/comp/2000335171/trophy"/>
+		<record from="Trofeo Villa de Madrid" to="graphics/pictures/comp/2000335172/trophy"/>
+		<record from="Trofeo Costa del Sol" to="graphics/pictures/comp/2000335173/trophy"/>
+		<record from="Trofeo Euskadi Asergace" to="graphics/pictures/comp/2000335174/trophy"/>
+		<record from="Ciutat de Barcelona Trophy" to="graphics/pictures/comp/2000335175/trophy"/>
+		<record from="Copa Martini and Rossi" to="graphics/pictures/comp/2000335176/trophy"/>
+		<record from="Trofeo Teresa Herrera" to="graphics/pictures/comp/2000335177/trophy"/>
+		<record from="Trofeo Ramón de Carranza" to="graphics/pictures/comp/2000335178/trophy"/>
+		<record from="Trofeo Colombino" to="graphics/pictures/comp/2000335179/trophy"/>
+		<record from="Premier League Asia Trophy" to="graphics/pictures/comp/2000335180/trophy"/>
+		<record from="Football League War Cup" to="graphics/pictures/comp/2000335181/trophy"/>
+		<record from="MLS All Stars Game" to="graphics/pictures/comp/2000335182/trophy"/>
+		<record from="The Atlantic Cup" to="graphics/pictures/comp/2000335183/trophy"/>
+		<record from="Troféu Cinco Violinos" to="graphics/pictures/comp/2000335184/trophy"/>
+		<record from="Troféu Cidade de Guimarães" to="graphics/pictures/comp/2000335185/trophy"/>
+2000335186
+		<record from="East of Scotland Shield" to="graphics/pictures/comp/2000335187/trophy"/>
+		<record from="Rosebery Charity Cup" to="graphics/pictures/comp/2000335188/trophy"/>
+		<record from="Glasgow Merchants Charity Cup" to="graphics/pictures/comp/2000335189/trophy"/>
+		<record from="Football World Championship" to="graphics/pictures/comp/2000335190/trophy"/>
+		<record from="Coronation Cup" to="graphics/pictures/comp/2000335191/trophy"/>
+		<record from="Empire Exhibition Trophy" to="graphics/pictures/comp/2000335192/trophy"/>
+		<record from="British League Cup" to="graphics/pictures/comp/2000335193/trophy"/>
+		<record from="Queen's Park Shield" to="graphics/pictures/comp/2000335194/trophy"/>
+		<record from="Glasgow International Exhibition Cup" to="graphics/pictures/comp/2000335195/trophy"/>
+		<record from="La Liga-Serie A Cup" to="graphics/pictures/comp/2000335196/trophy"/>
+		<record from="Saint Mungo Cup" to="graphics/pictures/comp/2000335197/trophy"/>
+		<record from="Supercopa de Catalunya" to="graphics/pictures/comp/2000335198/trophy"/>
+		<record from="Copa Catalunya" to="graphics/pictures/comp/2000335199/trophy"/>
+		<record from="Mundalito de Clubs" to="graphics/pictures/comp/2000335200/trophy"/>
+		<record from="Trofeo Naranja" to="graphics/pictures/comp/2000335201/trophy"/>
+		<record from="Telekom Cup" to="graphics/pictures/comp/2000335202/trophy"/>
+		<record from="Trofeo Antonio Puerta" to="graphics/pictures/comp/2000335203/trophy"/>
+		<record from="Trofeo Ciudad de Albacete" to="graphics/pictures/comp/2000335204/trophy"/>
+		<record from="Trofeo Cidade de Vigo" to="graphics/pictures/comp/2000335205/trophy"/>
+		<record from="Trofeo Memorial Quinocho" to="graphics/pictures/comp/2000335206/trophy"/>
+		<record from="Kubok Ukrayiny z futbolu" to="graphics/pictures/comp/2000335207/trophy"/>
+		<record from="Chempionat Ukrayiny z futbolu" to="graphics/pictures/comp/2000335208/trophy"/>
+		<record from="Dynamichnyy SRSR futbolu" to="graphics/pictures/comp/2000335209/trophy"/>
+		<record from="Superkubok SRSR z futbolu" to="graphics/pictures/comp/2000335210/trophy"/>
+2000335211
+2000335212
+2000335213
+2000335214
+2000335215
+2000335216
+2000335217
+		<record from="Ayrshire Cup" to="graphics/pictures/comp/2000335218/trophy"/>
+		<record from="Tennent Caledonian Cup" to="graphics/pictures/comp/2000335219/trophy"/>
+		<record from="Forfarshire Cup" to="graphics/pictures/comp/2000335220/trophy"/>
+		<record from="Renfrewshire Cup" to="graphics/pictures/comp/2000335221/trophy"/>
+		<record from="Stirlingshire Cup" to="graphics/pictures/comp/2000335222/trophy"/>
+2000335223
+2000335224
+2000335225
+2000335226
+2000335227
+2000335228
+		<record from="Manchester FA Senior Cup" to="graphics/pictures/comp/2000335229/trophy"/>
+		<record from="Lancashire County FA Senior Cup" to="graphics/pictures/comp/2000335230/trophy"/>
+		<record from="Meridian Cup" to="graphics/pictures/comp/2000335231/trophy"/>
+		<record from="Crimea League" to="graphics/pictures/comp/2000335232/trophy"/>
+		<record from="Medaglia doro Umberto I" to="graphics/pictures/comp/2000335233/trophy"/>
+		<record from="Torneo FGNI" to="graphics/pictures/comp/2000335234/trophy"/>
+		<record from="Coppa Federale" to="graphics/pictures/comp/2000335235/trophy"/>
+		<record from="Coppa Chiasso" to="graphics/pictures/comp/2000335236/trophy"/>
+2000335237
+2000335238
+		<record from="Azadegan League (1970-2001)" to="graphics/pictures/comp/2000335239/trophy"/>
+		<record from="Trofeo Birra Moretti" to="graphics/pictures/comp/2000335240/trophy"/>
+		<record from="Memorial Pier Cesare Baretti" to="graphics/pictures/comp/2000335241/trophy"/>
+		<record from="Trofeo Luigi Berlusconi" to="graphics/pictures/comp/2000335242/trophy"/>
+		<record from="Coppa Renato Dall'Ara" to="graphics/pictures/comp/2000335243/trophy"/>
+		<record from="Anglo-Italian League Cup" to="graphics/pictures/comp/2000335244/trophy"/>
+		<record from="Trofeo TIM" to="graphics/pictures/comp/2000335245/trophy"/>
+		<record from="Coppa del 150" to="graphics/pictures/comp/2000335246/trophy"/>
+		<record from="Uli Hoeneß Cup" to="graphics/pictures/comp/2000335247/trophy"/>
+		<record from="Fuji-Cup" to="graphics/pictures/comp/2000335248/trophy"/>
+		<record from="Trofeu Tap" to="graphics/pictures/comp/2000335249/trophy"/>
+		<record from="Ribeiro Dos Reis" to="graphics/pictures/comp/2000335250/trophy"/>
+		<record from="Taca Iberica" to="graphics/pictures/comp/2000335251/trophy"/>
+		<record from="Taça de Honra" to="graphics/pictures/comp/2000335252/trophy"/>
+		<record from="Taça Império" to="graphics/pictures/comp/2000335253/trophy"/>
+		<record from="Staatsliga Liga (B) (1950-1959)" to="graphics/pictures/comp/2000335254/trophy"/>
+		<record from="International Exhibition, Paris (1937)" to="graphics/pictures/comp/2000335255/trophy"/>
+		<record from="Mundialito (1980)" to="graphics/pictures/comp/2000335256/trophy"/>
+		<record from="Copa de Competencia La Nación" to="graphics/pictures/comp/2000335257/trophy"/>
+		<record from="Copa Suecia" to="graphics/pictures/comp/2000335258/trophy"/>
+		<record from="2016 Copa Bicentenario" to="graphics/pictures/comp/2000335259/trophy"/>
+		<record from="Copa Campeonato" to="graphics/pictures/comp/2000335260/trophy"/>
+2000335261
+		<record from="Dubai Champions Cup (1987-89)" to="graphics/pictures/comp/2000335262/trophy"/>
+		<record from="Opel Master Cup (1996-2000)" to="graphics/pictures/comp/2000335263/trophy"/>
+		<record from="Makita International Tournament (1988-1994)" to="graphics/pictures/comp/2000335264/trophy"/>
+		<record from="Umbro International Tournament (1996-1997)" to="graphics/pictures/comp/2000335265/trophy"/>
+		<record from="Ibrox International Challenge Trophy (1994-1995)" to="graphics/pictures/comp/2000335266/trophy"/>
+		<record from="World Football Challenge (2009-2011)" to="graphics/pictures/comp/2000335267/trophy"/>
+		<record from="DDR-Liga Staffel C (1971-1984)" to="graphics/pictures/comp/2000335268/trophy"/>
+		<record from="DDR-Liga Staffel D (1971-1984)" to="graphics/pictures/comp/2000335269/trophy"/>
+		<record from="DDR-Liga Staffel E (1971-1984)" to="graphics/pictures/comp/2000335270/trophy"/>
+		<record from="Fuwo-Pokal (1972)" to="graphics/pictures/comp/2000335271/trophy"/>
+		<record from="DFV-Supercup (1989)" to="graphics/pictures/comp/2000335272/trophy"/>
+		<record from="Deutschland-Cup (1990)" to="graphics/pictures/comp/2000335273/trophy"/>
+		<record from="Toyota Cup (1980-2004)" to="graphics/pictures/comp/2000335274/trophy"/>
+		<record from="Campeonato Estadio Centenario (1983)" to="graphics/pictures/comp/2000335275/trophy"/>
+		<record from="Montevideo Cup (1953-1978)" to="graphics/pictures/comp/2000335276/trophy"/>
+		<record from="Copa Rivadavia (1953)" to="graphics/pictures/comp/2000335277/trophy"/>
+		<record from="Torneo Internacional Nocturno (1936-1944)" to="graphics/pictures/comp/2000335278/trophy"/>
+		<record from="Torneo de Honor Uruguay (1935-1967)" to="graphics/pictures/comp/2000335279/trophy"/>
+		<record from="Torneo Competencia Uruguay (1934-1967)" to="graphics/pictures/comp/2000335280/trophy"/>
+		<record from="Copa Centenario de la AFA (1993-1994)" to="graphics/pictures/comp/2000335281/trophy"/>
+		<record from="Australia Bicentenary Gold Cup (1988)" to="graphics/pictures/comp/2000335282/trophy"/>
+		<record from="Taça Brasil Independência (1972)" to="graphics/pictures/comp/2000335283/trophy"/>
+		<record from="Nehru Cup (1982-2012)" to="graphics/pictures/comp/2000335284/trophy"/>
+		<record from="Kirin Cup (1992-2011)" to="graphics/pictures/comp/2000335285/trophy"/>
+		<record from="Florida Cup (2015-2021)" to="graphics/pictures/comp/2000335286/trophy"/>
+		<record from="Maradona Cup (2021)" to="graphics/pictures/comp/2000335287/trophy"/>
+		<record from="Copa de la República (1984)" to="graphics/pictures/comp/2000335288/trophy"/>
+2000335289
+		<record from="Nike U.S. Cup (1992-2000)" to="graphics/pictures/comp/2000335290/trophy"/>
+		<record from="Marlboro Cup (Clubs) (1987-1990)" to="graphics/pictures/comp/2000335291/trophy"/>
+		<record from="Marlboro Cup (National) (1987-1990)" to="graphics/pictures/comp/2000335292/trophy"/>
+		<record from="Supercampeonato Paulista (2002)" to="graphics/pictures/comp/2000335293/trophy"/>
+		<record from="Carioca Torneio Super Clássicos (2013-2015)" to="graphics/pictures/comp/2000335294/trophy"/>
+		<record from="Taça Guanabara" to="graphics/pictures/comp/2000335295/trophy"/>
+		<record from="Taça dos Campeões Estaduais Rio–São Paulo (1910-1987)" to="graphics/pictures/comp/2000335296/trophy"/>
+		<record from="Troféu João Saldanha" to="graphics/pictures/comp/2000335297/trophy"/>
+		<record from="Troféu Osmar Santos" to="graphics/pictures/comp/2000335298/trophy"/>
+		<record from="Copa dos Campeões Mundiais (1995-1997)" to="graphics/pictures/comp/2000335299/trophy"/>
+		<record from="Copa Euro-América (1991-1999)" to="graphics/pictures/comp/2000335300/trophy"/>
+2000335301
+		<record from="National Soccer League (1985-1995)" to="graphics/pictures/comp/2000335302/trophy"/>
+		<record from="National Professional Soccer League (1971-1995)" to="graphics/pictures/comp/2000335303/trophy"/>
+		<record from="National Football League (1959-1977)" to="graphics/pictures/comp/2000335304/trophy"/>
+2000335305
+		<record from="Oceania Club Championship (1987-2006)" to="graphics/pictures/comp/2000335306/trophy"/>
+2000335307
+2000335308
+2000335309
+		<record from="Copa Presidente de Chile (1940)" to="graphics/pictures/comp/2000335310/trophy"/>
+		<record from="Copa Lev Yashin (1994)" to="graphics/pictures/comp/2000335311/trophy"/>
+		<record from="Mercantile Credit Centenary Trophy (1988)" to="graphics/pictures/comp/2000335312/trophy"/>
+		<record from="Mercantile Credit Football Festival (1988)" to="graphics/pictures/comp/2000335313/trophy"/>
+		<record from="Mercantile Credit Centenary Classic (1987)" to="graphics/pictures/comp/2000335314/trophy"/>
+		<record from="Mitsubishi World Soccer '89 (1989)" to="graphics/pictures/comp/2000335315/trophy"/>
+		<record from="Watney Mann Invitation Cup (1970-1973)" to="graphics/pictures/comp/2000335316/trophy"/>
+		<record from="ScreenSport Super Cup (1986)" to="graphics/pictures/comp/2000335317/trophy"/>
+		<record from="President el-Sisi's Cup Winners' Super Cup (2001-2003, 2018)" to="graphics/pictures/comp/2000335318/trophy"/>
+		<record from="King Salman's League Winners' Super Cup (2001-2003)" to="graphics/pictures/comp/2000335319/trophy"/>
+		<record from="WAFU Club Championship (1977-2017)" to="graphics/pictures/comp/2000335320/trophy"/>
+		<record from="Trofeo Ciudad de Sevilla (1972-1994)" to="graphics/pictures/comp/2000335321/trophy"/>
+		<record from="Trofeo Ciudad de Zaragoza (1971-2014)" to="graphics/pictures/comp/2000335322/trophy"/>
+		<record from="Festa d'Elx Trophy (1960-2018)" to="graphics/pictures/comp/2000335323/trophy"/>
+		<record from="Memorial Jesús Gil y Gil (2005-2019)" to="graphics/pictures/comp/2000335324/trophy"/>
+		<record from="Trofeo Concepción Arenal (1953-2019)" to="graphics/pictures/comp/2000335325/trophy"/>
+		<record from="Trofeo Ciudad de Santander (1971-2005)" to="graphics/pictures/comp/2000335326/trophy"/>
+		<record from="Trofeo Ciudad de Palma (1969-2021)" to="graphics/pictures/comp/2000335327/trophy"/>
+		<record from="Trofeo Ciudad de La Línea (1970-2021)" to="graphics/pictures/comp/2000335328/trophy"/>
+		<record from="Primera FMFLiga Mayor (1923-1943)" to="graphics/pictures/comp/2000335329/trophy"/>
+		<record from="Torneio Heleno Nunes (1984)" to="graphics/pictures/comp/2000335330/trophy"/>
+2000335331	
+		<record from="American Challenge Cup (1960-1965)" to="graphics/pictures/comp/2000335332/trophy"/>
+		<record from="International Soccer League (1960-1965)" to="graphics/pictures/comp/2000335333/trophy"/>
+		<record from="Chicago Trophy (2007)" to="graphics/pictures/comp/2000335334/trophy"/>
+		<record from="Torneio de Kiev (1989)" to="graphics/pictures/comp/2000335335/trophy"/>
+2000335336
+		<record from="Copa Cidade de São Paulo (1975-1977)" to="graphics/pictures/comp/2000335337/trophy"/>
+		<record from="Troféu Internacional Feira de Hidalgo de 1981 (1981)" to="graphics/pictures/comp/2000335338/trophy"/>
+		<record from="Copa Los Angeles das Nações de 1985 (1985)" to="graphics/pictures/comp/2000335339/trophy"/>
+		<record from="Copa dos Campeões (1986)" to="graphics/pictures/comp/2000335340/trophy"/>
+		<record from="Torneio Internacional de Verão do Rio de Janeiro de 1973 (1973)" to="graphics/pictures/comp/2000335341/trophy"/>
+		<record from="Troféu Sócrates (2015)" to="graphics/pictures/comp/2000335342/trophy"/>
+		<record from="Copa Bandeirantes (1994)" to="graphics/pictures/comp/2000335343/trophy"/>
+		<record from="Torneio Quinela de Ouro (1942)" to="graphics/pictures/comp/2000335344/trophy"/>
+		<record from="Torneio do Povo (1971-1973)" to="graphics/pictures/comp/2000335345/trophy"/>
+		<record from="Torneio Viña del Mar (1976-2009)" to="graphics/pictures/comp/2000335346/trophy"/>
+		<record from="Kirin Cup (1978-1988)" to="graphics/pictures/comp/2000335347/trophy"/>
+		<record from="Torneio Mercosul (1995-1996)" to="graphics/pictures/comp/2000335348/trophy"/>
+		<record from="Mohammed bin Rashid International Football Championship (2007-2008)" to="graphics/pictures/comp/2000335349/trophy"/>
+		<record from="Copa dos Campeões do Brasil (1978)" to="graphics/pictures/comp/2000335350/trophy"/>
+		<record from="Copa Centenário de Belo Horizonte (1999)" to="graphics/pictures/comp/2000335351/trophy"/>
+		<record from="Philips Trophy Bern (1977-1991)" to="graphics/pictures/comp/2000335352/trophy"/>
+		<record from="Trofeo Villa de Bilbao (1971-1982)" to="graphics/pictures/comp/2000335353/trophy"/>
+		<record from="Trofeo Conde de Fenosa (1968-1976)" to="graphics/pictures/comp/2000335354/trophy"/>
+		<record from="Trofeo Ciudad de Valladolid (1972-2021)" to="graphics/pictures/comp/2000335355/trophy"/>
+		<record from="Bass Charity Vase" to="graphics/pictures/comp/2000335356/trophy"/>
+		<record from="Kamratmästerskapen (1901-1941)" to="graphics/pictures/comp/2000335357/trophy"/>
+		<record from="Svenska Mästerskapet (1896-1925)" to="graphics/pictures/comp/2000335358/trophy"/>
+		<record from="Svenska Fotbollserien (1910-1924)" to="graphics/pictures/comp/2000335359/trophy"/>
+		<record from="Corinthian Bowl (1906-1913)" to="graphics/pictures/comp/2000335360/trophy"/>
+		<record from="Wicanderska Välgörenhetsskölden (1905-1916)" to="graphics/pictures/comp/2000335361/trophy"/>
+		<record from="Rosenska Pokalen (1899-1903)" to="graphics/pictures/comp/2000335362/trophy"/>
+		<record from="Campeonato Provincial de Angola (1941-75)" to="graphics/pictures/comp/2000335363/trophy"/>
+		<record from="Campeonato Distrital de Lourenço Marques (1922-61)" to="graphics/pictures/comp/2000335364/trophy"/>
+		<record from="Campeonato Provincial de Moçambique (1956-74)" to="graphics/pictures/comp/2000335365/trophy"/>
+		<record from="BSSR - Pershaja Liha (1934-91)" to="graphics/pictures/comp/2000335366/trophy"/>
+		<record from="FA Sunday Cup" to="graphics/pictures/comp/2000335367/trophy"/>
+		<record from="OFC President's Cup (2014)" to="graphics/pictures/comp/2000335368/trophy"/>
+2000335369
+2000335370
+		<record from="Scottish Emergency War Cup (1939-40)" to="graphics/pictures/comp/2000335371/trophy"/>
+		<record from="Victory Cup (1946)" to="graphics/pictures/comp/2000335372/trophy"/>
+		<record from="Summer Cup (1941-1965)" to="graphics/pictures/comp/2000335373/trophy"/>
+		<record from="Veolia Trophy (2020)" to="graphics/pictures/comp/2000335374/trophy"/>
+		<record from="Drybrough Cup (1971-80)" to="graphics/pictures/comp/2000335375/trophy"/>y"/>
+		<record from="International Super Cup (2019)" to="graphics/pictures/comp/2000335376/trophy"/>
+		<record from="Uhrencup (1962-2019)" to="graphics/pictures/comp/2000335377/trophy"/>
+2000335378
+2000335379
+2000335380
+2000335381
+		<record from="Soviet Komsomol Cup" to="graphics/pictures/comp/2000335382/trophy"/>
+		<record from="Youdan Football Cup" to="graphics/pictures/comp/2000335383/trophy"/>
+		<record from="FA Amateur Cup" to="graphics/pictures/comp/2000335384/trophy"/>
+		<record from="Azerbaijani SSR Pervaya liga" to="graphics/pictures/comp/2000335385/trophy"/>
+		<record from="Dutch Eerste Klasse Noord" to="graphics/pictures/comp/2000335386/trophy"/>
+		<record from="Dutch Eerste Klasse Oost" to="graphics/pictures/comp/2000335387/trophy"/>
+		<record from="Dutch Eerste Klasse Zuid I" to="graphics/pictures/comp/2000335388/trophy"/>
+		<record from="Dutch Eerste Klasse Zuid II" to="graphics/pictures/comp/2000335389/trophy"/>
+		<record from="Dutch Eerste Klasse West I" to="graphics/pictures/comp/2000335390/trophy"/>
+		<record from="Dutch Eerste Klasse West II" to="graphics/pictures/comp/2000335391/trophy"/>
+		<record from="Dutch Gouden Kruis (Amsterdam)" to="graphics/pictures/comp/2000335392/trophy"/>
+		<record from="Dutch Zilveren Bal (Rotterdam)" to="graphics/pictures/comp/2000335393/trophy"/>
+2000335394
+		<record from="Taça Ariano Suassuna" to="graphics/pictures/comp/2000335395/trophy"/>
+		<record from="Summer Series" to="graphics/pictures/comp/2000335396/trophy"/>
+		<record from="Birmingham FA Senior Cup" to="graphics/pictures/comp/2000335397/trophy"/>
+		<record from="Bedfordshire County FA Senior Cup" to="graphics/pictures/comp/2000335398/trophy"/>
+		<record from="Berks Bucks FA County Senior Cup" to="graphics/pictures/comp/2000335399/trophy"/>
+		<record from="Oxfordshire Senior Cup" to="graphics/pictures/comp/2000335400/trophy"/>
+		<record from="Cambridgeshire Invitation Cup" to="graphics/pictures/comp/2000335401/trophy"/>
+		<record from="Cheshire County FA Challenge Cup" to="graphics/pictures/comp/2000335402/trophy"/>
+		<record from="Cornwall County FA Senior Cup" to="graphics/pictures/comp/2000335403/trophy"/>
+		<record from="Cumberland FA Senior Cup" to="graphics/pictures/comp/2000335404/trophy"/>
+		<record from="KSSR Pervaya liga" to="graphics/pictures/comp/2000335405/trophy"/>
+		<record from="The Football Alliance" to="graphics/pictures/comp/2000335406/trophy"/>
+	</list>
+</record>
